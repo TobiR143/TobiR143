@@ -33,7 +33,8 @@
 
   <div style="background:#161b22; padding:16px; border-radius:12px; box-shadow:0 2px 6px rgba(0,0,0,0.4);">
     <h3 style="color:#58a6ff;">💠 Datadex-Web</h3>
-    <p style="color:#c9d1d9;">Proyecto de e-commerce para venta de comida saludable, con panel de administración y sistema de pedidos.</p>
+    <p style="color:#c9d1d9;">Página basada en la aplicación móvil DataDex, incluye información de todos los pokemones junto con sus habilidades movimientos y más información.
+    Desarrollado con Express y Javascript para el backend, SQLite a nivel de base de datos y Astro + React con Typescript para el frontend</p>
     <a href="https://github.com/TobiR143/datadex-web" style="color:#58a6ff; text-decoration:none;">🔗 Ver repositorio</a>
     <a href="https://datadex-web.netlify.app/" style="color:#58a6ff; text-decoration:none;">💻 Ver aplicación</a>
   </div>
