@@ -1,16 +1,53 @@
-## Hi there 👋
+<div align="center" style="font-family: 'Segoe UI', sans-serif;">
 
-<!--
-**TobiR143/TobiR143** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <h1 style="color:#58a6ff;">👋 ¡Hola! Soy <span style="color:#fff;">Tobias</span></h1>
+  <p style="font-size:18px; color:#c9d1d9; max-width:600px; margin:auto;">
+    Desarrollador full stack apasionado por crear soluciones limpias, eficientes y con estilo.  
+    Estudiante de ingeniería en sistemas con experiencia en tecnologías como <strong>JavaScript</strong>, <strong>NodeJS</strong>, <strong>React</strong>, <strong>Astro</strong> y más.
+  </p>
 
-Here are some ideas to get you started:
+  <img src="https://avatars.githubusercontent.com/u/152637736?v=4" alt="Banner" width="200px" style="border-radius:12px; margin-top:20px;">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+---
+
+<h2 style="color:#58a6ff;">🚀 Tecnologías y herramientas</h2>
+<div style="display:flex; flex-wrap:wrap; gap:10px;">
+  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,express,astro,react,html,css,mysql,git,github,vscode" />
+</div>
+
+---
+
+<h2 style="color:#58a6ff;">🧩 Proyectos destacados</h2>
+
+<div style="display:grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap:20px;">
+
+  <div style="background:#161b22; padding:16px; border-radius:12px; box-shadow:0 2px 6px rgba(0,0,0,0.4);">
+    <h3 style="color:#58a6ff;">💠 E-Commerce</h3>
+    <p style="color:#c9d1d9;">Tienda online que permite ver productos disponibles y añadirlos al carrito, incluyendo lógica de usuarios para su utilización.  
+    Desarrollado con Express y Javascript para el backend, SQLite a nivel de base de datos y React en frontend</p>
+    <a href="https://github.com/TobiR143/ecommerce" style="color:#58a6ff; text-decoration:none;">🔗 Ver repositorio</a>
+    <a href="https://ecommerce-app-page.netlify.app/" style="color:#58a6ff; text-decoration:none;">💻 Ver aplicación</a>
+  </div>
+
+  <div style="background:#161b22; padding:16px; border-radius:12px; box-shadow:0 2px 6px rgba(0,0,0,0.4);">
+    <h3 style="color:#58a6ff;">💠 Datadex-Web</h3>
+    <p style="color:#c9d1d9;">Proyecto de e-commerce para venta de comida saludable, con panel de administración y sistema de pedidos.</p>
+    <a href="https://github.com/TobiR143/datadex-web" style="color:#58a6ff; text-decoration:none;">🔗 Ver repositorio</a>
+    <a href="https://datadex-web.netlify.app/" style="color:#58a6ff; text-decoration:none;">💻 Ver aplicación</a>
+  </div>
+</div>
+
+---
+
+<h2 style="color:#58a6ff;">📊 Mis estadísticas</h2>
+
+<div align="center">
+
+  <img src="https://github-readme-stats.vercel.app/api?username=TobiR143&show_icons=true&theme=tokyonight" height="150">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TobiR143&layout=compact&theme=tokyonight" height="150">
+
+</div>
+
+---
